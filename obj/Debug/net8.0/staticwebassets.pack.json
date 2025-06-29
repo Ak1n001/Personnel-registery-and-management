@@ -1,0 +1,185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\CSS\\site.css",
+      "PackagePath": "staticwebassets\\CSS\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\JS\\Update.js",
+      "PackagePath": "staticwebassets\\JS\\Update.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\JS\\site.js",
+      "PackagePath": "staticwebassets\\JS\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\JS\\toList.js",
+      "PackagePath": "staticwebassets\\JS\\toList.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\JS\\ulke_sehir_cek.js",
+      "PackagePath": "staticwebassets\\JS\\ulke_sehir_cek.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.css",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\CSS\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.js",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP\\DIST\\JS\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\BOOTSTRAP\\LICENSE",
+      "PackagePath": "staticwebassets\\LIB\\BOOTSTRAP"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION-UNOBTRUSIVE\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION-UNOBTRUSIVE\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION-UNOBTRUSIVE\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION-UNOBTRUSIVE\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION-UNOBTRUSIVE\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION-UNOBTRUSIVE\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION\\DIST\\additional-methods.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION\\DIST\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION\\DIST\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION\\DIST\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION\\DIST\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION\\DIST\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION\\DIST\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION\\DIST\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY-VALIDATION\\LICENSE.md",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY-VALIDATION\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY\\DIST\\jquery.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY\\DIST\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY\\DIST\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY\\DIST\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY\\DIST\\jquery.min.map",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY\\DIST\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\LIB\\JQUERY\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LIB\\JQUERY\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\Neupert_Titus-1698x2123-184x232.jpg",
+      "PackagePath": "staticwebassets\\Neupert_Titus-1698x2123-184x232.jpg"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\atess\\Downloads\\personel\\wwwroot\\mercedes-logo-home-page-palm-beach-classics-8.png",
+      "PackagePath": "staticwebassets\\mercedes-logo-home-page-palm-beach-classics-8.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Personel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Personel.props",
+      "PackagePath": "build\\Personel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Personel.props",
+      "PackagePath": "buildMultiTargeting\\Personel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Personel.props",
+      "PackagePath": "buildTransitive\\Personel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

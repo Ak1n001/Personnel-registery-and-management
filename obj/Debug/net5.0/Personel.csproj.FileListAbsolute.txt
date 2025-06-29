@@ -1,0 +1,9 @@
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.csproj.AssemblyReference.cache
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.AssemblyInfoInputs.cache
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.AssemblyInfo.cs
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.csproj.CoreCompileInputs.cache
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.RazorAssemblyInfo.cache
+C:\Users\atess\Downloads\personel\obj\Debug\net5.0\Personel.RazorAssemblyInfo.cs
